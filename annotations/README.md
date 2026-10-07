@@ -64,9 +64,14 @@ The final ground-truth boundary label was obtained using a threshold of **4 out 
 
 ## Annotation Guidelines
 
-Annotators were instructed to identify locations where a prosodic boundary or pause would naturally occur when reading the children's text aloud.
+Annotators were instructed to mark pauses at locations where they would naturally pause when **reading aloud to children aged 8–13**. The annotations capture prosodic phrase boundaries that facilitate comprehension and natural speech rhythm in educational read-aloud contexts.
 
-The annotations are intended to capture prosodic phrasing relevant to natural and comprehensible read-aloud speech.
+**Preview of the Annotation Tool used:**
+<img width="755" height="714" alt="Screenshot 2026-10-07 at 11 52 57 PM" src="https://github.com/user-attachments/assets/181ce2f5-c3fe-4157-b879-645ab1c99fba" />
+
+<img width="879" height="389" alt="image" src="https://github.com/user-attachments/assets/b707d5ee-3d98-409b-91e1-b4a24c679900" />
+
+
 
 ## Data Privacy and Masking
 
