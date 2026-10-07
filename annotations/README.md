@@ -16,7 +16,15 @@ This dataset contains prosodic boundary annotations for Hindi children's reading
 
 ## Data Source
 
-The source of the Hindi reading materials will be documented in a future version of this repository.
+The Hindi reading materials in this dataset are drawn from state-board educational resources intended for school children.
+
+- **Maharashtra State Board:** 18 stories from the 2022 edition of the state-board textbooks.  
+  **Source:** [Balbharati](https://books.ebalbharati.in/)
+
+- **Rajasthan State Board:** 36 stories from state-board textbooks.  
+  **Source:** [Rajasthan State Board Textbooks](https://www.selfstudys.com/state-wise/rajasthan)
+
+In total, the dataset comprises **54 Hindi stories**, covering reading materials used across Grades 3 to 8.
 
 ## File Structure
 
